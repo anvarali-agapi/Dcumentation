@@ -314,3 +314,8 @@ Add the `showCocosGame` method at the bottom, just before `@end`
 **Cocos Project name : `cc_proj_for_flutter`**
 
 **Flutter Project name : `flutter_app`**
+## ✅ Links
+1. [Cocos_Source_code_With_SDK_Xcode_not_included](https://drive.google.com/drive/folders/1YAtwEnR5jwP0q_JmPl5j6KqUIrNOL-Yo?usp=drive_link)
+2. [flutter_app_source_code](https://drive.google.com/drive/folders/1rBUpWlopOlX-Xq8ZRx0MRWTsNbtDY8bj?usp=drive_link)
+3. [Cocos_Flutter_integration_tutorial_video](https://drive.google.com/file/d/1Nrvg3fva3b8UgE_mJDRbPL-NNivSmDv7/view?usp=drive_link)
+4. [Final_App_Demo_Video](https://drive.google.com/file/d/1W63AL3TYphSgNOJvF1YwFY22HwUlaO2Y/view?usp=drive_link)
